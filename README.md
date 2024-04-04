@@ -2,8 +2,4 @@
 
 # Project Title
 
-<<<<<<< Updated upstream
-Feign client with graph API!
-=======
-Feign client with graph API facebook with spring boot!
->>>>>>> Stashed changes
+Feign client with graph API facebook with spring boot 3.2!
